@@ -1,1 +1,0 @@
-import{_ as T,o as e,c}from"./index-BNcTWAtZ.js";const E={};function S(o,t){return e(),c("h1",null,"TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST")}const n=T(E,[["render",S],["__scopeId","data-v-c25f6b36"]]);export{n as default};
