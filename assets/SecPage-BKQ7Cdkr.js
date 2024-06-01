@@ -1,0 +1,1 @@
+import{_ as T,o as c,c as e}from"./index-BGKkNTqB.js";const E={};function S(a,o){return c(),e("h1",null,"TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST")}const n=T(E,[["render",S],["__scopeId","data-v-c9cc57aa"]]);export{n as default};
