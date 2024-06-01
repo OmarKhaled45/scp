@@ -9,6 +9,7 @@ const count = ref(0)
 </script>
 
 <template>
+    <RouterLink :to="{name: 'SecPage'}">test</RouterLink>
     <div>
         <a href="https://vitejs.dev" target="_blank">
             <img src="../assets/img/vite.svg" class="logo" alt="Vite logo" />

@@ -3,17 +3,15 @@ import {
     createWebHistory
 } from 'vue-router'
 import HomePage from '../components/HomePage.vue'
+const SecPage = () => import('../components/SecPage.vue')
 
 const routes = [
-    {
-        path: '/',
-        name: 'Home',
-        component: HomePage
-    }
+    { path: '/', name: 'HomePage', component: HomePage },
+    { path: '/SecPage', name: 'SecPage', component: SecPage }
 ]
 
 const router = createRouter({
-    history: createWebHistory('/'),
+    history: createWebHistory(),
     routes
 })
 

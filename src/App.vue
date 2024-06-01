@@ -1,11 +1,10 @@
 <script setup>
-import HomePage from './components/HomePage.vue'
-// import {useRoute, useRouter} from 'vue-router'
 </script>
 
 <template>
-  <router-view></router-view>
-  <!-- <HomePage></HomePage> -->
+  <!-- <router-view /> -->
+  <RouterView />
+  <!-- <HomePage /> -->
 </template>
 
 <style scoped>
