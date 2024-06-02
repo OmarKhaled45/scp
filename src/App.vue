@@ -4,7 +4,7 @@
 <template>
   <!-- <router-view /> -->
   <RouterView />
-  <!-- <HomePage /> -->
+  <!-- <TheHomePage /> -->
 </template>
 
 <style scoped>
